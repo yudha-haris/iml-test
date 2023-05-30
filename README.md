@@ -65,6 +65,13 @@ Project for Loan Market Indonesia Interview
 └── README.md
 ```
 
+## Screenshots
+![image](https://github.com/yudha-haris/iml-test/assets/70850815/e77d7a54-3704-4b67-984c-91cbd417224b)
+![image](https://github.com/yudha-haris/iml-test/assets/70850815/c53279ce-588d-4a66-8506-5192988ccaea)
+![image](https://github.com/yudha-haris/iml-test/assets/70850815/b82ab61b-8cc1-4146-9c95-9a68893a5543)
+![image](https://github.com/yudha-haris/iml-test/assets/70850815/8f24d619-b4fb-4a54-af14-a17b7cf3f30e)
+
+
 This project based on
     - [resocoder](https://resocoder.com)
 
